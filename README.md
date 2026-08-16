@@ -381,13 +381,13 @@ Using technology to create opportunities.
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eehrari&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eehrari&theme=transparent" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eehrari&layout=compact&hide_border=true&theme=transparent&langs_count=8" />
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eehrari&theme=transparent" />
 
-<br/>
+<br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eehrari&theme=github-compact&hide_border=true&area=true" />
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Eehrari&theme=github-compact&hide_border=true&area=true&custom_title=Ehsan%20Ehrari%27s%20Contribution%20Graph" />
 
 </div>
 
