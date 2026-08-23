@@ -19,9 +19,9 @@ test automation, game development, cloud technologies, security, and technical m
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Eehrari-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari)
+[![GitHub](https://img.shields.io/badge/GitHub-ehsanehrari-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari)
 [![Email](https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ehrarie@gmail.com)
-![Profile Views](https://komarev.com/ghpvc/?username=Eehrari\&style=for-the-badge\&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=ehsanehrari\&style=for-the-badge\&label=PROFILE+VIEWS)
 
 </div>
 
@@ -251,7 +251,7 @@ My work includes:
 
 A project from my GitHub journey exploring application development around Afghanistan-focused content.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari/AfghanExplorer)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/AfghanExplorer)
 
 </td>
 
@@ -261,8 +261,8 @@ A project from my GitHub journey exploring application development around Afghan
 
 A collection of repositories exploring the frontend, backend, API, and UI sides of an Afghan Proverbs application.
 
-[![API](https://img.shields.io/badge/API-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari/afghan-proverbs-api)
-[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari/afghan-proverbs-front)
+[![API](https://img.shields.io/badge/API-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/afghan-proverbs-api)
+[![Frontend](https://img.shields.io/badge/Frontend-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/afghan-proverbs-front)
 
 </td>
 </tr>
@@ -274,7 +274,7 @@ A collection of repositories exploring the frontend, backend, API, and UI sides 
 
 Node.js and PostgreSQL project exploring Afghanistan's provinces through an interactive quiz concept.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari/Geo-Quiz-Challenge-Explore-Afghanistan-Provinces-with-Node.js-and-PostgreSQL)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/Geo-Quiz-Challenge-Explore-Afghanistan-Provinces-with-Node.js-and-PostgreSQL)
 
 </td>
 
@@ -284,7 +284,7 @@ Node.js and PostgreSQL project exploring Afghanistan's provinces through an inte
 
 Backend experimentation around authentication and server-side development.
 
-[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari/AuthServer)
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari/AuthServer)
 
 </td>
 </tr>
@@ -382,16 +382,16 @@ Using technology to create opportunities.
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake.svg"
   />
   <img
     width="96%"
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake.svg"
   />
 </picture>
 
@@ -416,7 +416,7 @@ I'm always interested in conversations around:
 
 ### 💬 Have an interesting idea, project, or collaboration?
 
-[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/Eehrari)
+[![GitHub](https://img.shields.io/badge/Follow_on_GitHub-181717?style=for-the-badge\&logo=github)](https://github.com/ehsanehrari)
 [![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:ehrarie@gmail.com)
 
 <br/><br/>
