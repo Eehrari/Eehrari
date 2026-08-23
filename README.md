@@ -379,21 +379,31 @@ Using technology to create opportunities.
 
 # 📊 GitHub Analytics
 
+<div align="center">
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Eehrari&theme=transparent" />
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Eehrari&theme=transparent" />
+
+<br/><br/>
+
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake-dark.svg"
+    srcset="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake-dark.svg"
   />
   <source
     media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake.svg"
+    srcset="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake.svg"
   />
   <img
     width="96%"
     alt="GitHub contribution snake"
-    src="https://raw.githubusercontent.com/ehsanehrari/ehsanehrari/output/github-snake.svg"
+    src="https://raw.githubusercontent.com/Eehrari/Eehrari/output/github-snake.svg"
   />
 </picture>
+
+</div>
 
 <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanehrari&theme=github-compact&hide_border=true&area=true&custom_title=Ehsan%20Ehrari%27s%20Contribution%20Graph" />
 ---
