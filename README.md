@@ -395,6 +395,7 @@ Using technology to create opportunities.
   />
 </picture>
 
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=ehsanehrari&theme=github-compact&hide_border=true&area=true&custom_title=Ehsan%20Ehrari%27s%20Contribution%20Graph" />
 ---
 
 # 🤝 Let's Connect
